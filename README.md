@@ -13,4 +13,4 @@
 
 [Python3](https://github.com/itc-21004/lesson.git)
 
-あああ
+
